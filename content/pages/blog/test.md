@@ -3,7 +3,7 @@ title: 测试
 slug: test
 date: '2025-12-11T20:21:00'
 excerpt: >-
-这是一篇文章。
+ 这是一篇文章。
 featuredImage:
   url: /images/img-placeholder.svg
   altText: 测试
